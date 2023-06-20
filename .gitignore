@@ -4,8 +4,6 @@ dist/
 # generated types
 .astro/
 
-# whitelist
-!node_modules/jquery
 
 # dependencies
 node_modules/
